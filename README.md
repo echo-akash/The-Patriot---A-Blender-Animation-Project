@@ -1,4 +1,4 @@
-<h1>The-Patriot---A-Blender-Animation-Project</h2>
+<h1>The Patriot - A Blender Animation Project</h2>
 
 <h2>Project Description</h2>
 <p>
